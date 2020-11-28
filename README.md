@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I believe that a true software engineer should be always learning new stuff. I’m trying to find some time to learn GoLang, some Python, some React. 
-- 👯 I’m looking to collaborate on opensource projects.
-- 🤔 I’m looking to start a tech startup.
+- 👯 I’m open to collaborate on opensource projects.
+- 🤔 One day I will start my tech startup.
 
 <!--
 **amiriskander/amiriskander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
